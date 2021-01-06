@@ -2,7 +2,7 @@
 
 
 1. 选择所需下载的数据包  
-   - 如需使用稳定版，请进入[Release页面](https://github.com/Sinbing/LBS_Woodcutter/releases)下载  
+   - 如需使用稳定版，请进入[Release页面](https://github.com/Sinbing/LBS_Woodcutter_datapack/releases)下载  
    - 如需调试最新版（可能不稳定），请直接将源码Clone到存档数据包文件夹中  
 
 2. 将数据包下载到存档数据包文件夹中  
